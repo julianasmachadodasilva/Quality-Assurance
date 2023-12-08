@@ -24,3 +24,5 @@ Os detalhes adicionais fornecidos para a comunicação entre client e servidor (
 
 # DADOS
 Também chamados de corpo - body - ou de mensagem - message, contêm as informações que você quer enviar ao servidor.
+
+## Fonte: https://www.freecodecamp.org/portuguese/news/tutorial-de-apis-rest-client-rest-servicos-rest-e-chamadas-de-api-explicados-com-exemplos-de-codigo/

@@ -306,3 +306,5 @@ WHERE FullName NOT LIKE '%encer Pauti%' AND FullName NOT LIKE '%"Ted"%';
 |         9 | Raymond F. Boyce     |      2400 | 2017-08-16 15:35:33 |
 +-----------+----------------------+-----------+---------------------+
 7 rows in set (0.00 sec)
+
+## Fonte: https://www.freecodecamp.org/portuguese/news/comandos-basicos-em-sql-a-lista-de-consultas-e-instrucoes-de-banco-de-dados-que-voce-deve-conhecer/

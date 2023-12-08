@@ -44,3 +44,5 @@ h2. What could I use to do it?
 ## Fonte: https://www.atlassian.com/agile/project-management/user-stories
           https://julianamachadodasilva.atlassian.net/jira/software/c/projects/QA/issues
           https://quality-assurance1.aha.io/notebooks/documents
+          https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template
+          

@@ -1,4 +1,4 @@
-# PIRÂMMIDE DE TESTES
+# PIRÂMIDE DE TESTES
 
 Uma pirâmide de testes visa demonstrar os principais testes realizados na criação de um projeto, juntamente com seus níveis de dificuldade e importância.
 
